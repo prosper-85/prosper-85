@@ -16,4 +16,4 @@ in a dynamic software development environment.
 
 **MAIN SKILLS**
 
-![Uploading image.png…]()
+[![Uploading image.png…]](https://developer.mozilla.org/en-US/docs/Web/JavaScript)()
