@@ -15,4 +15,5 @@ with cross-functional teams and deliver successful projects. Seeking opportuniti
 in a dynamic software development environment.
 
 **MAIN SKILLS**
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
