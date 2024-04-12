@@ -16,3 +16,4 @@ in a dynamic software development environment.
 
 **MAIN SKILLS**
 
+![Uploading image.png…]()
