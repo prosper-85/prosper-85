@@ -42,7 +42,7 @@ I specialize in **mobile-first development, UI engineering, and system optimizat
 
 ---
 
-# ⚙️ TECH STACK (ELITE STRUCTURE)
+# ⚙️ TECH STACK
 
 ## 🧩 Core Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -107,8 +107,72 @@ I specialize in **mobile-first development, UI engineering, and system optimizat
 # 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=newtdev&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oluwatobi3685&show_icons=true" />
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 📱 Mobile Wallet & Payment App
+**Scalable fintech mobile application for seamless transactions and user payments**
+
+**Tech Stack:** React Native, TypeScript, Redux/Zustand, Node.js, Express, REST APIs
+
+- ⚡ Built high-performance mobile UI with optimized rendering
+- 🔐 Integrated secure authentication and payment flows
+- 📡 Connected real-time API services for transaction processing
+- 📱 Designed for Android & iOS cross-platform consistency
+
+---
+
+## 🌐 E-Commerce Web Platform
+**Modern scalable e-commerce system with responsive UI and optimized performance**
+
+**Tech Stack:** Next.js, React, TailwindCSS, React Query, Node.js, Express, Swagger
+
+- 🚀 Improved page load performance with SSR optimization
+- 🧠 Implemented efficient API caching using React Query
+- 🛒 Built reusable UI components for scalable product system
+- 📊 Integrated API documentation using Swagger
+
+---
+
+## 📊 Admin Dashboard System
+**Data-driven dashboard for analytics, reporting, and business insights**
+
+**Tech Stack:** React, TypeScript, Chart.js, Material UI, Redux
+
+- 📈 Built dynamic charts for real-time data visualization
+- ⚙️ Designed modular admin architecture for scalability
+- 🔄 Implemented state synchronization across multiple views
+- 🎨 Created responsive UI for desktop and tablet usage
+
+---
+
+## 🧠 API & Backend Services Layer
+**RESTful backend services powering multiple applications**
+
+**Tech Stack:** Node.js, Express, NestJS, Swagger
+
+- 🔗 Built scalable REST APIs with clean architecture
+- 🧩 Structured modular backend using NestJS patterns
+- 📄 Documented APIs using Swagger for developer clarity
+- ⚡ Optimized request handling and response performance
+
+---
+
+## 📱 UI Component System Library
+**Reusable design system for scalable frontend development**
+
+**Tech Stack:** React, Styled Components, TailwindCSS, SASS
+
+- 🎨 Built reusable UI components for faster development
+- 🧱 Created consistent design system across applications
+- ⚡ Improved development speed through modular architecture
+- 📦 Reduced UI duplication across projects
 
 ---
 
