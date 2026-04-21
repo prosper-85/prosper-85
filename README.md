@@ -1,42 +1,81 @@
-# SAHEED TOBI (PROSPER)
+<h1 align="center">Hi 👋, I'm Saheed Tobi (Prosper)</h1>
 
-[prosper8890@gmail.com]
-
-2349034023685
-
-Abuja FCT, Nigeria
-
-# ABOUT!
-
-A fluid, focused, and willing to learn new things, all, I believe in knowledge integration.
-Results-oriented software engineer with 5+ years of experience developing scalable and efficient software solutions.
-Strong expertise in frontend development, mobile app development, and IT management at Spacepen Technology, Orion Resources tech, Kayokem International, and iRecharge Tech innovations LTD respectively. Proven ability to collaborate
-with cross-functional teams and deliver successful projects. Seeking opportunities to leverage my skills and experience
-in a dynamic software development environment.
-
-# MAIN SKILLS
-<p align="left">  
- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="html5" width="50" height="50"/> </a> 
-   <br/>
- <br/>
-<a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" alt="react" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Mobile+Engineer+in+Progress;React+Native+Specialist;Frontend+Developer;Always+Learning+New+Things" />
 </p>
 
-## Additional tools
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=newtdev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
+---
 
+## 🧠 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=newtdev&show_icons=true&locale=en&layout=compact" alt="newtdev" /></p>
+- 💻 Software Engineer with **4+ years experience**
+- 📱 Specialized in **Mobile & Frontend Development**
+- ⚡ Strong focus on **performance & scalability**
+- 🤝 Experienced working with cross-functional teams
 
+🎯 **Goal:** Become a top-tier **Mobile Engineer**, building scalable and impactful mobile applications.
 
+---
 
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:prosper8890@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"></a>
+<a href="tel:+2349034023685"><img src="https://img.shields.io/badge/Phone-000?style=for-the-badge&logo=phone"></a>
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧩 Technology
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+
+---
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo)
+
+---
+
+### 🎨 Styling & UI
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+
+---
+
+### 🧠 State Management
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+
+---
+
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+![Babel](https://img.shields.io/badge/Babel-000?style=for-the-badge&logo=babel)
+![Chart.js](https://img.shields.io/badge/Chart.js-000?style=for-the-badge&logo=chartdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+
+---
+
+## 🚀 Featured Projects
+
+```txt
+📱 Mobile App (React Native)
+├── Scalable architecture
+├── API integration
+└── Performance optimization
+
+🌐 Web App (Next.js)
+├── SSR optimization
+├── Responsive UI
+└── SEO improvements
