@@ -91,6 +91,22 @@ I specialize in **mobile-first development, UI engineering, and system optimizat
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
+  Most recent work is in private company repositories under
+  <a href="https://github.com/prosper-irecharge" target="_blank"><strong>prosper-irecharge</strong></a>;
+  Contribution activity is private/anonymized.
+</p>
+
+<p align="center">
+  <a href="https://github.com/prosper-85?tab=overview&from=2026-06-01&to=2026-06-08">
+    View personal contributions
+  </a>
+  ·
+  <a href="https://github.com/prosper-irecharge?tab=overview&from=2026-06-01&to=2026-06-08">
+    View company contribution activity
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=newtdev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
