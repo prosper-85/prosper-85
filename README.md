@@ -18,6 +18,11 @@ I specialize in **mobile-first development, UI engineering, and system optimizat
 
 🎯 **Current Focus:** Expanding into advanced **Mobile Engineering**, building scalable, user-centric, and high-performance applications.
 
+<p align="center">
+  Most recent work is in private company repositories under
+  <a href="https://github.com/prosper-irecharge" target="_blank"><strong>prosper-irecharge</strong></a>;
+  Contribution activity is private/anonymized.
+</p>
 ---
 
 ## 🌐 Connect With Me
