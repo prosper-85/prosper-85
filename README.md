@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-Software Engineer with **4+ years of experience** building scalable, high-performance web and mobile applications.
+Software Engineer with **5+ years of experience** building scalable, high-performance web and mobile applications.
 
 I specialize in **mobile-first development, UI engineering, and system optimization**, working across cross-functional teams to deliver production-ready solutions.
 
